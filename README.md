@@ -1,7 +1,13 @@
 # get-chinese-name
 
 
+https://github.com/wanghaisheng/Chinese-Names-Corpus
+
+https://github.com/babyblue94520/your-name
+
 https://www.gov.cn/xinwen/2021-02/08/content_5585906.htm
+
+
 《二〇二〇年全国姓名报告》发布
 2021-02-08 13:44 来源： 公安部网站字号： 默认 大 超大|打印|     
 姓名，作为中华名文化的脉承之一，是人们以血脉传承为根基的社会人文标识。2021年1月1日起施行的《中华人民共和国民法典》明确规定：自然人享有姓名权，有权依法决定、使用、变更或者许可他人使用自己的姓名，但是不得违背公序良俗。这对规范公民姓名登记、传承和发展中国姓名文化具有十分重要的意义。
