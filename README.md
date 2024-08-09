@@ -1,5 +1,7 @@
 # get-chinese-name
 
+https://github.com/rococostudio/Allusion_detection/tree/master
+
 
 https://github.com/wanghaisheng/Chinese-Names-Corpus
 
