@@ -2,6 +2,9 @@
 
 https://github.com/rococostudio/Allusion_detection/tree/master
 
+https://github.com/wanghaisheng/ReName
+
+https://github.com/wanghaisheng/AncientChineseCorpus
 
 https://github.com/wanghaisheng/Chinese-Names-Corpus
 
