@@ -1,3 +1,7 @@
+
+中文姓名打分
+中文姓和名拆分
+
 # get-chinese-name
 
 https://github.com/rococostudio/Allusion_detection/tree/master
