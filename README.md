@@ -15,6 +15,7 @@
 * Do certain Chinese names have associated stereotypes like in English?
 
 
+https://eatmywords.com/free-name-evaluation-test/
 
 ## 中文姓和名拆分工具
 
