@@ -16,7 +16,7 @@
 
 
 https://eatmywords.com/free-name-evaluation-test/
-
+https://github.com/peiss/chinese-name-score
 ## 中文姓和名拆分工具
 
 好听
