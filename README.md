@@ -12,6 +12,7 @@
 * ？ ＋ ： ￥； 财的 书 写 简单
 * 符合性格特征
 分析个人性格特征：根据个人的性格特征，如外向、内向、乐观、悲观等，选择能够反映这些特征的字或词作为名字的一部分。例如，如果一个人非常乐观，可以选择“乐”、“光”等字作为名字的一部分。
+* Do certain Chinese names have associated stereotypes like in English?
 
 
 
