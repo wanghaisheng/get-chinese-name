@@ -12,3 +12,4 @@
 
 从名人
 
+https://github.com/ben-hua/general_standard_chinese
